@@ -1,0 +1,4 @@
+*.jpg
+*.png
+.idea
+utils/__pycache__/img_connect.cpython-38.pyc
